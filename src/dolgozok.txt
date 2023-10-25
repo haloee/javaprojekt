@@ -1,0 +1,3 @@
+1;John Doe;Vezető;8;500000;20000
+2;Jane Smith;Fizikai munkás;8;1500;50
+3;Mark Johnson;Fizikai munkás;8;1500;50
